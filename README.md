@@ -3,7 +3,7 @@ Design Patterns in Java
 
 ### Certifications
 
-- [Design Patterns in Java](https://nlb.udemy.com/certificate/UC-f9183a1a-02e0-49fd-961e-599898d7d775/)
+- [Design Patterns in Java](https://udemy.com/certificate/UC-f9183a1a-02e0-49fd-961e-599898d7d775/)
 
 ### Awknowledgements
 
